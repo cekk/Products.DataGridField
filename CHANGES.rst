@@ -4,7 +4,7 @@ Changelog
 1.8.5 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Fixed bug in adding new row. Now new rows inputs has an unique id [cekk]
 
 
 1.8.4 (2013-01-04)
